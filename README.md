@@ -3,6 +3,16 @@
 ### Hi there 👋
 ![oops image gone..](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+It seems like you have found me
+
+## Anyways I'm Gilbert,
+but you can call be Gil
+
+I'm always working on something and learning new things!
+
+## What I'm working on:
+
+
 
 
 
