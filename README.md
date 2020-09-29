@@ -5,15 +5,14 @@
 
 It seems like you have found me 
 
-## Anyways I'm Gilbert,
-but you can call be Gil
+## I'm Gilbert,
 
 I'm always working on something and learning new things!
 
 ![hmmm image not here?](https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=4d1e4f29pio9a5g3dstfl0mwivmnefy0vj9vbzkav1kt4frh&rid=giphy.gif)
 
 ## What I'm working on:
-
+- A virtual place for people to hang out in 
 
 
 
