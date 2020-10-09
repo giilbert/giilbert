@@ -3,9 +3,9 @@
 # hi there 👋
 ![aw no cute cat image..](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-It seems like you have found me 
+it seems like you have found me 
 
-## what I'm working on
+## what I'm working on 🔨
 - **gilboto**: 
     gilbert's discord bot for things like utility, memes, and moderation
 
