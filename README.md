@@ -1,10 +1,13 @@
 
 
 # hi there 👋
-![oops image gone..](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![aw no cute cat image..](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 It seems like you have found me 
 
+## what I'm working on
+- **gilboto**: 
+    gilbert's discord bot for things like utility, memes, and moderation
 
 
 
