@@ -8,7 +8,8 @@ it seems like you have found me
 ## what I'm working on 🔨
 - **gilboto**: 
     gilbert's discord bot for things like utility, memes, and moderation
-
+- **virtual-place** (name undecided):
+    a place for people to meet online (because of the pandemic and everything)
 
 
 
