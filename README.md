@@ -13,7 +13,8 @@ he/him/his
     a reboot of a bot i made a while ago (the last codebase was messy)
 - **planner**:
     self explanatory
-
+- **quiz**:
+    a web app for teachers (or really anything) to give out quizzes to students
 
 <!--
 **giilbert/giilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
