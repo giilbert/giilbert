@@ -14,7 +14,7 @@ he/him/his
 - **planner**:
     self explanatory
 - **quiz**:
-    a web app for teachers (or really anything) to give out quizzes to students
+    a web app for teachers (or really anyone) to give out quizzes to students
 
 <!--
 **giilbert/giilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
