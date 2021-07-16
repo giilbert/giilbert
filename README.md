@@ -1,16 +1,18 @@
 
 
 # hi there 👋
-![aw no cute cat image..](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-it seems like you have found me 
+I'm Gilbert
+
+he/him/his
+
+![cute cat image](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## what I'm working on 🔨
-- **gilboto**: 
-    gilbert's discord bot for things like utility, memes, and moderation
-- **virtual-place** (name undecided):
-    a place for people to meet online (because of the pandemic and everything)
-
+- **gilboto mk2**: 
+    a reboot of a bot i made a while ago (the last codebase was messy)
+- **planner**:
+    self explanatory
 
 
 <!--
@@ -24,6 +26,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
