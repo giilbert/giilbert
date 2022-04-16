@@ -1,26 +1,11 @@
 
 
-# hi there 👋
+# hello
+javascript my beloved
 
-I'm Gilbert
+check out https://github.com/giilbert/giz 😏
 
-![cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-## What I'm working on 🔨
-- **gilboto mk2**: 
-    a reboot of a bot i made a while ago (the last codebase was messy)
-- **planner**:
-    self explanatory app to plan and organize time
-- **quiz**:
-    a web app for teachers (or really anyone) to give out quizzes to students
-
-## What I'm learning 📚
-- Next.js & React
-- Unity game development
-- C++ and other lower level languages
-- UI Design
-
-## Social media
+## reach me at
 [Discord](discord.com) - gil#2252
 
 <!--
