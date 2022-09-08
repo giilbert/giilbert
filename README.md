@@ -1,12 +1,11 @@
 
 
-# hello
-javascript my beloved
+# Hello, I'm Gilbert,
+a high school student who likes to get side tracked
 
-check out https://github.com/giilbert/giz 😏
+[🔭 Unfinished website](https://www.gilbertz.tech/)
 
-## reach me at
-[Discord](discord.com) - gil#2252
+<img src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" alt="cat">
 
 <!--
 **giilbert/giilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
