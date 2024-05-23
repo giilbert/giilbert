@@ -1,9 +1,6 @@
 
 
-# Hello, I'm Gilbert,
-a high school student who likes to get side tracked
-
-[🔭 Unfinished website](https://www.gilbertz.tech/)
+# Hi!!!! I'm Gilbert
 
 <img src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" alt="cat">
 
